@@ -125,7 +125,7 @@ export default class Wallet extends Component {
           <SubTitle>
             <FormattedMessage id="Wallet104" defaultMessage="Test for PR script building" />
           </SubTitle>
-          Deposit funds to addresses below
+          Deposit funds to addresses below test NOT DEPLOY
         </PageHeadline>
         <Table
           id="table-wallet"
